@@ -33,6 +33,8 @@ namespace Tema_10._2_Matrix
             }
         }
 
+        // Problem 3. Matrix operations
+
         // Override ToString()
         public override string ToString()
         {
